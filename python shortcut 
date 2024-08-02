@@ -1,0 +1,7 @@
+Command + /: Comment/Uncomment Line
+Command + D: Duplicate Line
+Command + Delete: Delete Line
+
+Command + Shift + Up/Down Arrow: Move Line Up/Down
+
+Command + Arrow up: select the words
