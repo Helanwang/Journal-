@@ -1,0 +1,40 @@
+ --- modulename: script, funcname: <module>
+script.py(3):  def count_spaces(user_input):
+script.py(11):  user = input("Count space here: ")
+Count space here: what is this
+script.py(12):  count_spaces(user)
+ --- modulename: script, funcname: count_spaces
+script.py(4):      count = 0
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(7):              count += 1
+script.py(8):              print(f"Found a space, count is now {count}")
+Found a space, count is now 1
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(7):              count += 1
+script.py(8):              print(f"Found a space, count is now {count}")
+Found a space, count is now 2
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(6):          if i == " ":
+script.py(5):      for i in user_input:
+script.py(9):      print(f"Total count of spaces is {count}")
+Total count of spaces is 2

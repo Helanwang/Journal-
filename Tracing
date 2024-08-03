@@ -1,0 +1,5 @@
+Tracing:
+
+- variables
+- order of line's execution (which line executed first. especially in a loop)
+
